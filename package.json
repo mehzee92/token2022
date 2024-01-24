@@ -6,7 +6,9 @@
     "@metaplex-foundation/umi-web3js-adapters": "^0.9.0",
     "@solana/spl-token": "^0.3.11",
     "@solana/spl-token-metadata": "^0.1.2",
-    "@solana/web3.js": "^1.89.0"
+    "@solana/web3.js": "^1.89.0",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2"
   },
   "devDependencies": {
     "@types/bs58": "^4.0.4"
